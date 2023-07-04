@@ -1,4 +1,4 @@
-![My Remote Image](https://imgur.com/E0NGm5T)
+![My Remote Image](https://i.imgur.com/E0NGm5T.jpg)
 
 
 **Server**: You have a single server that hosts all the components of the web infrastructure.
