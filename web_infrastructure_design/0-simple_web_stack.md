@@ -1,5 +1,6 @@
 ![My Remote Image](https://i.imgur.com/E0NGm5T.jpg)
 
+Explanation of the infrastructure:
 
 **Server**: You have a single server that hosts all the components of the web infrastructure.
 
@@ -13,7 +14,7 @@
 
 **Domain Name**: Configure the domain name "foobar.com" with a DNS record. Add a "www" record that points to your server's IP address, which in this case is 8.8.8.8.
 
-About this infrastructure:
+Specifics about the infrastructure:
 
 -   **What is a server**: A server is a computer or system that provides services or resources to other computers or clients. In this case, it hosts the web infrastructure for the website.
     
